@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiluxfnh
+- 👋 Hi, I’m FOKOU Hilux
 - 👀 I’m interested in Graphic designing, web development, software development and UI/UX designs
 - 🌱 I’m currently learning Bachelor of Computer Application
 - 💞️ I’m looking to collaborate on Diverse computer related projects
